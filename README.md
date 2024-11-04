@@ -6,4 +6,4 @@ This section contains some first steps material
 
 ## Next Steps
 
-Further instructions
+Further instructions for new users
