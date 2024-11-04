@@ -2,4 +2,8 @@
 
 ## First Steps
 
-This section is supposed to contain some first steps material
+This section contains some first steps material
+
+## Next Steps
+
+Further instructions
