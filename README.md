@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section contains some first steps material
+Here you will find some introductory text
 
 ## Basic Commands
 
