@@ -4,6 +4,8 @@
 
 This section contains some first steps material
 
-## Next Steps
+## Basic Commands
 
-Further instructions
+### git add
+
+The command `git add` adds a file to the staging area
