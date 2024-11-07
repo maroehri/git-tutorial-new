@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here you will find some introductory text
+Change the introduction text again
 
 ## Basic Commands
 
