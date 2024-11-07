@@ -1,6 +1,6 @@
 # Teaching Git
 
-## First Steps
+## Introduction
 
 This section contains some first steps material
 
