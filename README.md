@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section contains some first steps material
+I want to give you some hands-on tips
 
 ## Basic Commands
 
